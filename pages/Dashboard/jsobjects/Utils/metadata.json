@@ -1,0 +1,16 @@
+{
+  "gitSyncId": "62f33645551b63648fe3e15f_652caac7061eb7384dd903df",
+  "id": "Dashboard_Utils",
+  "unpublishedCollection": {
+    "name": "Utils",
+    "pageId": "Dashboard",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "variables": [
+      {
+        "name": "baseUrl",
+        "value": "\"https://testnetfaucet-api.fabriclabs.org\""
+      }
+    ]
+  }
+}
